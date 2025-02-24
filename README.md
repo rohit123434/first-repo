@@ -4,7 +4,7 @@
 author - rohit
 <html>
     <head>
-        <title>Blog Post</title>
+        <title>Online Store</title>
         <link rel="stylesheet" href="ecommercecss.css">
     </head>
     <body>
