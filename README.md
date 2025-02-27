@@ -27,6 +27,7 @@ author - rohit
         <h1>heading 1</h1>
         <p>this is my first paragraph </p>
         <p>this is second paragraph</p>
+        <p>this is third paragraph</p>
    </body>
 </html>
       
