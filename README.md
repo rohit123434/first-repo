@@ -17,12 +17,16 @@ author - rohit
                     <li><a href="new arivals">New Arivals</a></li>
                     <li><a href="best sellers">Best-Sellers</a></li>
                     <li><a href="sale">Sale</a></li>
+                    <li><a href="contact">Contact</a></li>
                 </ul>
                 <div class="cart-icon">
                 </div>
             </nav>
             </div>
         </header>
+        <h1>heading 1</h1>
+        <p>this is my first paragraph </p>
+        <p>this is second paragraph</p>
    </body>
 </html>
       
